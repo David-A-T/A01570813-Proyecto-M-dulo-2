@@ -20,6 +20,7 @@ Modelos entrenados:
 - YOLO DataAug (50 EPOCHS, ADAM, MSE): YOLO_AUG_E50_ADAM_MSE.pt
 
 **<Estructura requerida de directorios:**
+```
 |
 |
 --> BM_Execution.ipynb
@@ -68,6 +69,6 @@ Los directorios dentro de los archivos .yaml se deben modificar para poder corre
 |
 |
 --> YOLO_ARCHITECTURE.png
-
+```
 **Modifiqué el readme para clarificar unas cosas, pero todos los otros archivos fueron subidos dentro de la fecha límite**
 
