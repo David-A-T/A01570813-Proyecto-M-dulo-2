@@ -18,3 +18,6 @@ Modelos entrenados:
 - YOLO DataAug (10 EPOCHS, ADAM, MSE): YOLO_AUG_E10_ADAM_MSE.pt
 - YOLO DataAug (10 EPOCHS, ADAMW, MSE): YOLO_AUG_E10_ADAMW_MSE.pt
 - YOLO DataAug (50 EPOCHS, ADAM, MSE): YOLO_AUG_E50_ADAM_MSE.pt
+
+
+**Modifiqué el readme para clarificar unas cosas, pero todos los otros archivos fueron subidos dentro de la fecha límite**
