@@ -19,5 +19,55 @@ Modelos entrenados:
 - YOLO DataAug (10 EPOCHS, ADAMW, MSE): YOLO_AUG_E10_ADAMW_MSE.pt
 - YOLO DataAug (50 EPOCHS, ADAM, MSE): YOLO_AUG_E50_ADAM_MSE.pt
 
+**<Estructura requerida de directorios:**
+|
+|
+--> BM_Execution.ipynb
+|
+--> best.pt
+
+------------------------------------------
+|
+|
+--> augmented_control
+|    |
+|    --> [ ... ]
+--> augemented_datasets
+|    |
+|    --> [ ... ]
+|    |
+|    --> data.yaml
+|
+--> control
+|    |
+|    --> [ ... ]
+|
+--> datasets
+|    |
+|    --> [ ...]
+|    |
+|    --> data.yaml
+|
+--> Control_CNN.ipynb
+|
+|
+--> Image Handling.ipynb
+|
+|
+--> YOLO.ipynb
+|
+|
+--> YOLO_Tuned.ipynb
+
+Los directorios dentro de los archivos .yaml se deben modificar para poder correr YOLO.ipynb y YOLO_Tuned.ipynb
+
+------------------------------------------
+|
+|
+--> Justifications.ipynb
+|
+|
+--> YOLO_ARCHITECTURE.png
 
 **Modifiqué el readme para clarificar unas cosas, pero todos los otros archivos fueron subidos dentro de la fecha límite**
+
